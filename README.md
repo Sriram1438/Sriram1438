@@ -24,6 +24,6 @@ I’m passionate about working with data to uncover insights, solve problems, an
 
 📫 How to reach me:
 - Email: sriramrsr05@gmail.com
-- LinkedIn: in/sriram-r-0a083332b
+- LinkedIn: https://www.linkedin.com/in/sriram-r-0a083332b/
 
 📈 Always learning and improving my analytics skills.
